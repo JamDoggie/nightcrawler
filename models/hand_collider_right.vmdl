@@ -1,0 +1,158 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_thumb_0_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.775149
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_thumb_1_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.623171
+						point0 = [ 0.735756, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_thumb_2_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.606057
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_index_0_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.441056
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.726448, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_index_1_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.622435
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_index_2_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.683383
+						point0 = [ 1.019278, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_middle_0_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.729509
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.894503, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_middle_1_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.782453
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_middle_2_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.869627
+						point0 = [ 1.063286, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_ring_0_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.791261
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_ring_1_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.941849
+						point0 = [ 0.0, 0.0, 0.0 ]
+						point1 = [ 1.160021, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = "finger_ring_2_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						radius = 1.739615
+						point0 = [ 0.647243, 0.0, 0.0 ]
+						point1 = [ 2.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "hand_R"
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 4.648998, -1.148379, -0.409425 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 11.619796, 11.459063, 2.597716 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/citizen_skeleton.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}
